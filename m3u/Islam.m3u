@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="Televizia5" tvg-logo="" group-title="Islam",Televizija 5
-http://live.itprishtina.com:89/televizia5/index.m3u8
+http://37.59.21.217:8809/live/tv5web.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="quranbosnia" tvg-logo="" group-title="Islam",Quran Bosnia
 mms://isl1.islam4peace.com/QuranbosnianonlyTV
 #EXTINF:-1 tvg-id="" tvg-name="quranalbania" tvg-logo="" group-title="Islam",Quran Albania
