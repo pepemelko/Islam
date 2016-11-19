@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Televizia5" tvg-logo="" group-title="Islam",Televizija 5
+#EXTINF:-1 tvg-id="" tvg-name="Televizia5" tvg-logo="" group-title="Televizija 5",Televizija 5
 http://37.59.21.217:8809/live/tv5web.m3u8
-
-#EXTINF:-1 group-title="Islam",Makkah Live HD
-https://www.youtube.com/watch?v=D8YHp37-tp0
 
