@@ -8,7 +8,3 @@ http://tectime.iptv-playoutcenter.de:1935/tectime/tectime.stream/playlist.m3u8
 http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DW" tvg-logo="" group-title="Private",DW Nachrichten
 http://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Alfaysal" tvg-logo="" group-title="Private",Al Faysal TV
-http://cdn.livestream.com/grid/LSPlayer.swf?channel=alfaysaltvtest&clip=&time=&showMoreVideos=false&hideInfo=true&autoPlay=true&lschannel=true&browseMode=false&textLines=2&hideChannelBranding=true&mode=false&allowchat=false&t=562437
-#EXTINF:-1 tvg-id="" tvg-name="IslamChannel" tvg-logo="" group-title="Private",Islam Channel
-https://player.sharp-stream.com/islamtv/jwplayer.flash.swf
