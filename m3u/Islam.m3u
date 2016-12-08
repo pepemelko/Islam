@@ -2,9 +2,13 @@
 #EXTINF:-1 tvg-id="" tvg-name="Televizia5" tvg-logo="" group-title="Private",Televizija 5
 http://37.59.21.217:8809/live/tv5web.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="NatGeoHD.de" tvg-logo="" group-title="Private",Nat Geographic HD
+http://iphdtv.ddns.net:8330/live/testline-forum24/7/7WuqH6EEQJ/3.ts
 #EXTINF:-1 tvg-id="" tvg-name="Tectime" tvg-logo="" group-title="Private",Tectime TV
 http://tectime.iptv-playoutcenter.de:1935/tectime/tectime.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nasatv" tvg-logo="" group-title="Private",Nasa TV
 http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DW" tvg-logo="" group-title="Private",DW Nachrichten
 http://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="nope" tvg-logo="" group-title="Private",RadioIslame
+http://server5.digital-webstream.de:33725
