@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Televizia5" tvg-logo="" group-title="Private",Televizija 5
+#EXTINF: -1 tvg-id="televizija-5.ba" tvg-name="Televizija 5" tvg-logo="televizija5" group-title="Private" parent-code="",Televizija 5
 http://37.59.21.217:8809/live/tv5web.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Tectime" tvg-logo="" group-title="Private",Tectime TV
 http://tectime.iptv-playoutcenter.de:1935/tectime/tectime.stream/playlist.m3u8
